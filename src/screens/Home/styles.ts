@@ -26,6 +26,7 @@ export const styles = StyleSheet.create({
   },
   listTitle: {
     marginTop: 34,
+    marginBottom: 16,
     color: "#F2F2F2",
     fontSize: 20,
     fontStyle: "normal",
